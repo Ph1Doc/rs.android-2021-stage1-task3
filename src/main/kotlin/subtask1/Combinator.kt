@@ -21,7 +21,6 @@ class Combinator {
                 }
             }
         }
-
         return null
     }
 
